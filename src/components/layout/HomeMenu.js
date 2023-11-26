@@ -25,7 +25,7 @@ export default function HomeMenu() {
       </div>
       <div className="text-center mb-4">
         <SectionHeaders
-          subHeader={'check out'}
+          subHeader={'check this out'}
           mainHeader={'Featured Products'} />
       </div>
       <div className="grid sm:grid-cols-3 gap-4">
