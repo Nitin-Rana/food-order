@@ -17,11 +17,12 @@ export default function Home() {
           mainHeader={'About us'}
         />
         <div className="text-gray-500 max-w-md mx-auto mt-4 flex flex-col gap-4">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni minima odit recusandae. Illum ipsa non repudiandae? Eum ipsam iste quos suscipit tempora? Aperiam esse fugiat inventore laboriosam officiis quam rem!
-          </p>
-          <p>At consectetur delectus ducimus est facere iure molestias obcaecati quaerat vitae voluptate? Aspernatur dolor explicabo iste minus molestiae pariatur provident quibusdam saepe?</p>
-          <p>Laborum molestias neque nulla obcaecati odio quia quod reprehenderit sit vitae voluptates? Eos, tenetur.</p>
+        <p>
+    Welcome to our delicious world! Explore a symphony of flavors crafted with passion and precision. Whether you crave comfort classics or daring delights, our menu is designed to tantalize your taste buds.
+  </p>
+  <p>Indulge in the art of culinary perfection. Our chefs use only the finest ingredients to create mouthwatering dishes that will leave you craving for more.</p>
+  <p>From savory starters to heavenly desserts, every bite is a journey of culinary bliss. Place your order now and embark on a culinary adventure with us!</p>
+
         </div>
       </section>
       <section className="text-center my-8" id="contact">
@@ -30,8 +31,8 @@ export default function Home() {
           mainHeader={'Contact us'}
         />
         <div className="mt-8">
-          <a className="text-4xl underline text-gray-500" href="tel:+46738123123">
-            +46 738 123 123
+          <a className="text-4xl underline text-gray-500" href="ntnrana2011@gmail.com">
+            ntnrana2011@gmail.com
           </a>
         </div>
       </section>
