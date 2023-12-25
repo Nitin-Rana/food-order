@@ -7,7 +7,7 @@ import {Toaster} from "react-hot-toast";
 const roboto = Roboto({ subsets: ['latin'], weight: ['400', '500', '700'] })
 
 export const metadata = {
-  title: 'Eat Hub',
+  title: 'Feast Hub',
   description: 'Flavorful Eats Hub – where every order is a celebration of great taste!',
 }
 
